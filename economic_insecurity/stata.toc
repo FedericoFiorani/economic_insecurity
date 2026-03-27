@@ -1,0 +1,7 @@
+begin stata.toc
+v 3
+d Economic insecurity package
+d Federico Fiorani, LISER
+d Commands: economic_insecurity, ei_abs, ei_rel
+p economic_insecurity Economic insecurity measures
+end stata.toc
