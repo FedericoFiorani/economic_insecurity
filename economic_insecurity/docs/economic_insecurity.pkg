@@ -1,0 +1,14 @@
+begin economic_insecurity.pkg
+v 3
+d economic_insecurity. Economic insecurity measures.
+d Federico Fiorani, LISER
+d Provides commands economic_insecurity, ei_abs, and ei_rel.
+d
+d Distribution-Date: 20260327
+f economic_insecurity.ado
+f economic_insecurity.sthlp
+f ei_abs.ado
+f ei_abs.sthlp
+f ei_rel.ado
+f ei_rel.sthlp
+end economic_insecurity.pkg
