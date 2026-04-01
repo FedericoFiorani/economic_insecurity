@@ -1,3 +1,0 @@
-v 1.0
-d economic_insecurity package
-p economic_insecurity economic_insecurity
