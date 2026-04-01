@@ -24,11 +24,11 @@ The package can be installed directly from GitHub with:
 
 ```stata
 net install economic_insecurity, from("https://raw.githubusercontent.com/FedericoFiorani/economic_insecurity/main/") replace
-
+```
 
 To inspect the package before installation, use:
 
-
-```net describe economic_insecurity, from("https://raw.githubusercontent.com/FedericoFiorani/economic_insecurity/main/")
-
+```stata
+net describe economic_insecurity, from("https://raw.githubusercontent.com/FedericoFiorani/economic_insecurity/main/")
+```
 
